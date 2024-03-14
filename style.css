@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+form {
+    background-color: #fff;
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    text-align: center;
+}
+input[type="text"], input[type="email"], select {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+img{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: auto;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 5cm;
+    width: 4cm;
+    
+}
+button{
+    text-align: center;
+    background-color:aqua;
+    margin-top: 15px;
+    margin-bottom: auto;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    color:black;
+}
